@@ -1,0 +1,48 @@
+
+
+.icon-img{
+  width: 50px;
+  height: 50px;
+}
+
+
+.back-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 42vh;
+  width: 100%
+}
+
+.detail-view {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 200px;
+  padding-left: 20px;
+  background: linear-gradient(to bottom, transparent 0%, #000 100%);
+}
+
+.hello-view{
+  z-index: 0;
+}
+
+.modal-view{
+  padding: 50px 25px 0 25px;
+  z-index: 1;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  /* background-color: #fff; */
+  margin-top: -20px;
+}
+
+.children-view {
+  position: absolute;
+}
+
+.bottom-img{
+  top:700px;
+  position:'absolute';
+  background-color: aqua
+}

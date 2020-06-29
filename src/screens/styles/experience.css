@@ -1,0 +1,31 @@
+
+
+.card-img{
+  display: block;
+  height: 220px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+
+.card-text{
+  color: #fff;
+  text-align: left;
+  padding-left: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  font-size: 22px;
+  padding-right: 27%
+}
+
+.card-view {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 200px;
+  padding-top: 60px;
+  background: linear-gradient(to bottom, transparent 0%, #000 100%);
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
