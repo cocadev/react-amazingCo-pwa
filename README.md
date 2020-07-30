@@ -1,4 +1,4 @@
-# Amazing Co PWA react.js app that is prototyped primarily built by only mobile
+# Amazing Co PWA react.js app that is prototyped primarily built by only mobile version
 
 <p align="center">
   <kbd>
